@@ -11,7 +11,7 @@ Follow the instructions further down for either the ttf or the tilesets or both.
 ...
 
 ## TO-DO
-- somehow make 4x5 tilesets work....
+- ~~somehow make 4x5 tilesets work....~~ Switched to 5x5 font instead less headache
 - figure out twbt for non-monospaced version
 - custom creatures?
 - fix random trailing black space cut off on specific resizes
